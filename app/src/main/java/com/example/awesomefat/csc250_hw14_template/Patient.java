@@ -4,7 +4,7 @@ package com.example.awesomefat.csc250_hw14_template;
  * Created by awesomefat on 11/30/17.
  */
 
-public class Patient extends Person
+public class Patient extends Person implements Comparable<Patient>
 {
     private double balance;
 
@@ -14,6 +14,10 @@ public class Patient extends Person
         this.balance = balance;
     }
 
+    public int compareTo(Patient p)
+    {
+        return (int)(this.balance - p.balance);
+    }
     public String toString()
     {
         return String.format("%s Balance: %f", super.toString(), this.balance);

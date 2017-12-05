@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CSC250_HW14_Template.iml" filepath="$PROJECT_DIR$/CSC250_HW14_Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CSC250_HW14_Template.iml" filepath="$PROJECT_DIR$/.idea/CSC250_HW14_Template.iml" />
+      <module fileurl="file://C:\Users\gmk19\AndroidStudioProjects\CSC250_HW14_Template\CSC250_HW14_Template.iml" filepath="C:\Users\gmk19\AndroidStudioProjects\CSC250_HW14_Template\CSC250_HW14_Template.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\gmk19\AndroidStudioProjects\CSC250_HW14_Template\app\app.iml" filepath="C:\Users\gmk19\AndroidStudioProjects\CSC250_HW14_Template\app\app.iml" />
     </modules>
   </component>
 </project>

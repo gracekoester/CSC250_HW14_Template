@@ -19,6 +19,22 @@ public class Person
         this.gender = gender;
     }
 
+    /*public int compareTo(Person p)
+    {
+        if(this.age == p.age)
+        {
+            return 0;
+        }
+        else if(this.age < p.age)
+        {
+            return -1;
+        }
+        else
+        {
+            return 1;
+        }
+    }*/
+
     //overload our inherited toString method
     public String toString()
     {
